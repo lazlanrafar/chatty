@@ -1,6 +1,14 @@
 # chatty
 
-A new Flutter project.
+A Slicing UI Practice Chat UI Apps (Chatty). From pixels BWA website.
+
+## 📸 ScreenShots
+
+<img src='./screenshot/image.png'>
+
+## Special Thanks to :
+
+[BuildWithAngga](https://buildwithangga.com/) for Courses and [Pixel Build With Angga](https://pixel.buildwithangga.com/) for the UI Resources.
 
 ## Getting Started
 
